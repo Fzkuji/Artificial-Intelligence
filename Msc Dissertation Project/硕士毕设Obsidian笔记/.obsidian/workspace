@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "99b95eaafb50f327",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f9f3b75f7b1de35",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Papers/Literature Survey - CTC.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3bf5e8be80e3e20e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e49617a6924bab8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb807860a0ff671a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8c55e64e59ba28f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "pptx",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258
+  },
+  "right": {
+    "id": "152556c6568571dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb08c203a0eb18df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7305b1d38e1668b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Papers/Literature Survey - CTC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2f9f3b75f7b1de35",
+  "lastOpenFiles": [
+    "Papers/Literature Survey - Wav2vec.md",
+    "Papers/Literature Survey - CTC.md",
+    "Images/Zhao, Wei, et al. input.png",
+    "Images/Zhao, Wei, et al. filter.png",
+    "Images/Speech Representation.png",
+    "Images/Liu, Yu, et al. structure.jpg",
+    "Images/Klatt Formant Synthesizer.png",
+    "Images/Figure 3.png",
+    "Images/Contents.png",
+    "Papers/Latex论文引用格式.md"
+  ]
+}

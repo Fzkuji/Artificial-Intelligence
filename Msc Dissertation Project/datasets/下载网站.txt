@@ -1,0 +1,1 @@
+TIMIT: https://figshare.com/articles/dataset/TIMIT_zip/5802597
